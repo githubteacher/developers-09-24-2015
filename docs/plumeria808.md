@@ -6,4 +6,5 @@
 
 **Hometown:** Wauwatosa, WI
 
+**Favorite Vacation Spot:** Hawaii
 

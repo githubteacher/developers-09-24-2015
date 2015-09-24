@@ -7,3 +7,5 @@
 **Occupation:** Embedded SW Engr, EE.
 
 **JCI team:** [Wireless FW](https://github.jci.com/wireless/)
+
+**FavoriteVacation:** Sicily, Italy

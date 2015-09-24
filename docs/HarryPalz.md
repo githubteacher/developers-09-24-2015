@@ -6,3 +6,5 @@
 **Hometown** MKE
 
 **Occupation** Software Engineer
+
+**Favorite Vacation Spot** Anywhere. Anytime.
