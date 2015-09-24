@@ -1,5 +1,7 @@
-Jameel Ahmed
+Name: Jameel Ahmed
 
-New Delhi, India
+Hometown: New Delhi, India
 
-Firmware Engineer, Smart Embedded Controls, JCI.
+Occupation: Firmware Engineer.
+
+Department and Company: Smart Embedded Controls, JCI.
