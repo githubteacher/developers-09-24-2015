@@ -1,4 +1,4 @@
 ## HeightRiders Bio
 * Name: Height Riders 
-* Location: Milwaukee
+* Home Town: Milwaukee
 * Occupation: Software Professional
