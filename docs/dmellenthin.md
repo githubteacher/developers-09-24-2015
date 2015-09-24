@@ -2,4 +2,4 @@
 
 **Name:** Daniel Mellenthin
 **Occupation:** UI Developer
-**Home Town:** Cottage Grove
+**Home Town:** Cottage Grove, WI
