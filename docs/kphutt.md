@@ -5,3 +5,5 @@
 **Occupation:** Software Engineer
 
 **Hometown:**  Mequon, WI
+
+**Favorite Vacation Spot:** Costa Rica
