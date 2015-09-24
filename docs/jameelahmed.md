@@ -2,4 +2,4 @@ Jameel Ahmed
 
 New Delhi, India
 
-Firmware Engineer, Smart Embedded Cotnrols, JCI.
+Firmware Engineer, Smart Embedded Controls, JCI.
