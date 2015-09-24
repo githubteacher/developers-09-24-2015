@@ -1,7 +1,7 @@
 # jci-trawicki
 
-**Name:** Matthew Trawicki
+**Name:** Matthew MI Trawicki
 
 **Occupation:** Software Engineer
 
-**Hometown:** near Milwaukee
+**Hometown:** 123 Some Street, Milwaukee, WI Planet Mars
