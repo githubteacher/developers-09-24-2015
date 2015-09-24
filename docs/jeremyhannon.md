@@ -1,5 +1,9 @@
-# Jeremy Hannon
-Hometown: Oak Ridge, TN.
-Occupation: Embedded SW Engr, EE.
+# jeremyhannon bio
 
-JCI team: [Wireless FW](https://github.jci.com/wireless/)
+**Name:** Jeremy Hannon
+
+**Hometown:** Oak Ridge, TN.
+
+**Occupation:** Embedded SW Engr, EE.
+
+**JCI team:** [Wireless FW](https://github.jci.com/wireless/)
