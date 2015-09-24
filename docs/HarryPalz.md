@@ -3,6 +3,6 @@
 
 **Name** Harry Palzewicz
 
-**Location** `docs` folder
+**Hometown** MKE
 
-**Occupation** Software Engineer in MKE
+**Occupation** Software Engineer
