@@ -4,4 +4,4 @@
 
 **Occupation:** User Experience Designer
 
-**Hometown:** Athens, Ontario
+**Hometown:** Athens, Ontario, Canada
