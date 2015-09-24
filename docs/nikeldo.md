@@ -1,4 +1,4 @@
 ## nikeldo Bio
-* Name: Nikeldo 
+* Name: Nikeldo Only
 * Location: Milwaukee
 * Occupation: Software Engineer
