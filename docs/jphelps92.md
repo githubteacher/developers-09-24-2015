@@ -2,7 +2,7 @@ Username: **jphelps92**
 
 Full name: **Jonathan Phelps**
 
-Hometown: **Brookfield, WI**
+Hometown: **Brookfield, WI** :us:
 
 Occupation: **Software Engineer at Johnson Controls, Inc.**
 
