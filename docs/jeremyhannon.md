@@ -8,4 +8,4 @@
 
 **JCI team:** [Wireless FW](https://github.jci.com/wireless/)
 
-**FavoriteVacation:** Sicily, Italy
+**FavoriteVacation:** Sicily, Italy or Badlands, South Dakota.
