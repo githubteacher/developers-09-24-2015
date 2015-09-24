@@ -1,7 +1,7 @@
 ## NickSchaf
 
-_Name_: Nick Schaf
+___Name___: Nick Schaf
 
-_Hometown_: Milwaukee
+___Hometown___: Milwaukee
 
-_Occupation_: Engineer
+___Occupation___: Engineer
