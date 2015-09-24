@@ -4,4 +4,4 @@
 
 **Occupation:** Teacher
 
-**Hometown:** San Francisco
+**Hometown:** San Francisco, California, USA
