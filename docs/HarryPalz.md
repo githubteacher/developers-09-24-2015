@@ -1,6 +1,8 @@
 #HarryPalz Bio
-##And autobiography by HarryPalz
+##An autobiography by HarryPalz
 
-**###Name** Harry Palzewicz
-**###Location** `docs` folder
-**###Occupation** Software Engineer in MKE
+**Name** Harry Palzewicz
+
+**Location** `docs` folder
+
+**Occupation** Software Engineer in MKE
