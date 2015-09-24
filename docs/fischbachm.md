@@ -2,6 +2,6 @@
 
 **Name:** Mark Fischbach
 
-**Occupation:** Engineer
+**Occupation:** Firmware Engineer
 
 **Hometown:** Franklin, WI
